@@ -1,0 +1,16 @@
+Feed
+-Home (see first)
+-Popular
+-Communities
+-Search
+
+Create Post
+
+Post
+
+Login
+
+Register
+
+Profile
+-user setting
